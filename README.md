@@ -7,6 +7,7 @@
 ![Status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Married-red)  ![](https://visitor-badge.glitch.me/badge?page_id=github.com/technicalmonk) [![GitHub followers](https://img.shields.io/github/followers/technicalmonk?label=Follow&style=social)](https://github.com/technicalmonk/?tab=follow) ![Profile views](https://gpvc.arturio.dev/technicalmonk) ![status: hired](https://img.shields.io/badge/status-hired-brightgreen) ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 ![](http://i.imgur.com/c7GmAJf.png)
+
 ---
 
 ## Me & My Job
