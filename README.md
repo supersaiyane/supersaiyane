@@ -44,8 +44,7 @@
 </a>
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <a href="https://github.com/technicalmonk/technicalmonk">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=technicalmonk&column=7" />
 </a>
