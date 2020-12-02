@@ -23,34 +23,6 @@
 - Ambitious, highly motivated and able to face challenging work and deliver quality output while meeting deadlines.
 - Results-oriented, Technology professional with proven leadership ability; capable of keeping a team focused on day-to-day tasks and long-term deadlines.
 
-<h2>🚀 Few Tools I Use</h2>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="45" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="45" height="45" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45" />
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82450fe8e4517d3494d/topics/aws/aws.png" alt="aws" width="45" height="45" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82450fe8e4517d3494d/topics/terminal/terminal.png" alt="Terminal" width="45" height="45" />
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82450fe8e4517d3494d/topics/graphql/graphql.png" alt="gcp" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82450fe8e4517d3494d/topics/git/git.png" alt="gcp" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="gcp" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82450fe8e4517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="gcp" width="45" height="45" />
-</p>
-
 ---
 
 ## 🧐 Facts
