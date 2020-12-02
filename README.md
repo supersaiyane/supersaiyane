@@ -11,6 +11,8 @@
 - Ambitious, highly motivated and able to face challenging work and deliver quality output while meeting deadlines.
 - Results-oriented, Technology professional with proven leadership ability; capable of keeping a team focused on day-to-day tasks and long-term deadlines.
 
+<img align="right" alt="GIF" src="https://github.com/technicalmonk/technicalmonk/gifs/blob/master/code.gif?raw=true" width="500" height="320" />
+
 Skills: Algorithms, Data structures, Object-Oriented Analysis and Design, Microservices, Architectural Pattern, DevOps, Agile and Kanban Dev Frameworks, C#, Python, Restful API, dotnet Core, Dockers, Kubernetes, Cassandra, Influx Db, Spark, Kafka, Supply Chain management, Project management, Scrum Master, Azure, GraphQL, GraphDb, Oracle service Cloud, ELK, Prometheus, Grafana, CI/CD Pipeline, Confluence
 
 - 🔭 I’m currently working on React, DevOps & Cloud 
