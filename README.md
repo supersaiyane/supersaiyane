@@ -9,7 +9,7 @@
 
 ---
 
-## Me & My Job
+## My Snapshot
 
 <img align="right" src="Resources/gifs/code.gif" width="500" height="320" />
 
