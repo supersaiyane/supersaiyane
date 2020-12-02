@@ -7,7 +7,6 @@
 - Architecting and Designing Products/ Systems.
 - Doing Code reviews/ Process reviews/ Spec review/ setting up processes and managing projects.
 - Exposure across multiple domains like Manufacturing, Security, Travel and Retail, eCommerce.
-
 - Being able to get away easily at any level in the organization, feel confident in dealing with situations at hand and can turn around things that are ‘worst’ to ‘best’.
 - Ambitious, highly motivated and able to face challenging work and deliver quality output while meeting deadlines.
 - Results-oriented, Technology professional with proven leadership ability; capable of keeping a team focused on day-to-day tasks and long-term deadlines.
