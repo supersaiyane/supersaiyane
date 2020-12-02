@@ -53,6 +53,7 @@
 ---
 
 ## 🧐 Facts
+<img align="right" width="350" height="300" alt="Gurpreet Singh" src="Resources/gifs/hula_loop_dribbble.gif"/>
 
 - 🔭 I’m currently working on React, DevOps & Cloud 
 - 🌱 I’m currently learning React,Nodejs,GO 
