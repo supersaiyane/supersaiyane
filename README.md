@@ -39,19 +39,17 @@
 
 ## 💻 Statistics
 
-<p>&nbsp;</p>
+
 <a href="https://github.com/technicalmonk/technicalmonk">
-  <img align="left" src="https://bad-apple-github-readme.vercel.app/api?username=technicalmonk&show_icons=true&line_height=27&count_private=true" alt="technicalmonk's GitHub Stats" />
+  <img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=technicalmonk&show_icons=true&line_height=27&count_private=true" alt="technicalmonk's GitHub Stats" />
 </a>
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <a href="https://github.com/technicalmonk/technicalmonk">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=technicalmonk&column=7" />
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
