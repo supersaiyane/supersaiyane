@@ -1,5 +1,6 @@
-### Gurpreet Singh: Human being from 1990's
-*Technical Solution Architect || Mentor || Aspired to be TEDx Speaker || Food, Travel and System Design is Love*
+# Gurpreet Singh: Human being from 1990's
+
+#### *Technical Solution Architect || Mentor || Aspired to be TEDx Speaker || Food, Travel and System Design is Love*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://gurpreetsingh89.gitlab.io/visualresume/">
