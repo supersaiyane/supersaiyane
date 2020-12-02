@@ -18,7 +18,7 @@ Skills: Algorithms, Data structures, Object-Oriented Analysis and Design, Micros
 - 🌱 I’m currently learning React,Nodejs,GO 
 - 👯 I’m looking to collaborate on Anything 
 - 💬 Ask me about Anything in this world 
-- 📫 How to reach me: MailMe@gurpreet.singh_89@outlook.com 
+- 📫 How to reach me: gurpreet.singh_89@outlook.com 
 - 😄 Pronouns: Demonstrative 
 - ⚡ Fun fact: Google rents out goats!! 
 
