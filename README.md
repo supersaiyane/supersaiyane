@@ -36,23 +36,20 @@
 - 😄 Pronouns: Demonstrative 
 - ⚡ Fun fact: Google rents out goats!! 
 
+--- 
 ## 💻 Statistics
 
 <a href="https://github.com/technicalmonk/technicalmonk">
-  <img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=technicalmonk&show_icons=true&line_height=27&count_private=true" alt="technicalmonk's GitHub Stats" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp
-<a href="https://github.com/technicalmonk/technicalmonk">
-  <img align="center" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?username=technicalmonk" />
+  <img align="left" src="https://bad-apple-github-readme.vercel.app/api?username=technicalmonk&show_icons=true&line_height=27&count_private=true" alt="technicalmonk's GitHub Stats" />
 </a>
 <p>&nbsp;</p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 <a href="https://github.com/technicalmonk/technicalmonk">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=technicalmonk&column=7" />
+  <img align="right" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?username=technicalmonk" />
 </a>
+<p>&nbsp;</p>
 
-&nbsp;
-&nbsp;
+
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
