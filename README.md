@@ -42,6 +42,7 @@
   <img align="center" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?username=technicalmonk" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp
+<p>
 <a href="https://github.com/technicalmonk/technicalmonk">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=technicalmonk&column=7" />
 </a>
