@@ -2,11 +2,11 @@
 #### *"I think, fundamentally, open source does tend to be more stable software. It's the right way to do things." — Linus Torvalds*
 ![*"I think, fundamentally, open source does tend to be more stable software. It's the right way to do things." — Linus Torvalds*](http://i.imgur.com/c7GmAJf.png)
 
-Technical Solution Architect | System Design | Mentor @Vertisystem || Aspired to be TEDx Speaker
+####*Technical Solution Architect | System Design | Mentor @Vertisystem || Aspired to be TEDx Speaker*
 
-Architecting and Designing Products/ Systems.
-Doing Code reviews/ Process reviews/ Spec review/ setting up processes and managing projects.
-Exposure across multiple domains like Manufacturing, Security, Travel and Retail, eCommerce.
+- Architecting and Designing Products/ Systems.
+- Doing Code reviews/ Process reviews/ Spec review/ setting up processes and managing projects.
+- Exposure across multiple domains like Manufacturing, Security, Travel and Retail, eCommerce.
 
 - Being able to get away easily at any level in the organization, feel confident in dealing with situations at hand and can turn around things that are ‘worst’ to ‘best’.
 - Ambitious, highly motivated and able to face challenging work and deliver quality output while meeting deadlines.
