@@ -1,12 +1,7 @@
-# Gurpreet Singh: Human being from 1990's
+## Gurpreet Singh: Human being from 1990's
 
-#### *Technical Solution Architect || Mentor || Aspired to be TEDx Speaker || Food, Travel and System Design is Love*
+*Technical Solution Architect || Mentor || Aspired to be TEDx Speaker || Food, Travel and System Design is Love*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://gurpreetsingh89.gitlab.io/visualresume/">
-<img align="center" src="Resources/gifs/my.png" width="500" height="450" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ---
 #### *"I think, fundamentally, open source does tend to be more stable software. It's the right way to do things." — Linus Torvalds*
 
