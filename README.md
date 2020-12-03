@@ -77,7 +77,6 @@
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="45" height="45" />
 <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDb" width="45" height="45" />
 <img src="https://www.vectorlogo.zone/logos/memcached/memcached-icon.svg" alt="Memcached" width="45" height="45" />
-<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="Dotnet" width="45" height="45" />
 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="NPM" width="45" height="45" />
 <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="PHPmyAdmin" width="45" height="45" />
 </p>
