@@ -34,6 +34,53 @@
 - 😄 Pronouns: Demonstrative 
 - ⚡ Fun fact: Google rents out goats!! 
 
+<h2>🚀 Few Tools/ Technologies/ Framework i use/used</h2>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="45" height="45" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheusio" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="microsoft_azure" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power-Bi" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS-Code" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/amazon/amazon-icon.svg" alt="Amazon" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Aws" width="50" height="45" />
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="BitBucket" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/consulio/consulio-icon.svg" alt="Consul" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-icon.svg" alt="Couchbase" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elastic" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Gitlab" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" alt="GoogleMap" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="Html5" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/influxdata/influxdata-icon.svg" alt="InfluxData" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="Ionic" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-icon.svg" alt="Jaeger" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="logstash" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDb" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/memcached/memcached-icon.svg" alt="Memcached" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="Dotnet" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="NPM" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="PHPmyAdmin" width="45" height="45" />
+</p>
 
 ## 💻 Statistics
 
