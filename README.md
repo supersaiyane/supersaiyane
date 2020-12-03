@@ -7,8 +7,12 @@
 
 #### *"I think, fundamentally, open source does tend to be more stable software. It's the right way to do things." — Linus Torvalds*
 
-![Status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Married-red)  ![](https://visitor-badge.glitch.me/badge?page_id=github.com/technicalmonk) [![GitHub followers](https://img.shields.io/github/followers/technicalmonk?label=Follow&style=social)](https://github.com/technicalmonk/?tab=follow) ![Profile views](https://gpvc.arturio.dev/technicalmonk) ![status: hired](https://img.shields.io/badge/status-hired-brightgreen) ![build: passing](https://img.shields.io/badge/build-passing-success)
-
+![Status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Married-red)  ![](https://visitor-badge.glitch.me/badge?page_id=github.com/technicalmonk) [![GitHub followers](https://img.shields.io/github/followers/technicalmonk?label=Follow&style=social)](https://github.com/technicalmonk/?tab=follow) ![Profile views](https://gpvc.arturio.dev/technicalmonk) ![status: hired](https://img.shields.io/badge/status-hired-brightgreen) ![build: passing](https://img.shields.io/badge/build-passing-success) ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue)
+[![Linkedin Badge](https://img.shields.io/badge/-gurpreetsingh89-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gurpreetsingh89/)](https://www.linkedin.com/in/gurpreetsingh89/)
+[![Medium Badge](https://img.shields.io/badge/-@gurpreet.singh.89-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@gurpreet.singh.89)](https://medium.com/@gurpreet.singh.89)
+[![dev.to Badge](https://img.shields.io/badge/-@gurpreetsingh-000000?style=flat&labelColor=000000&logo=dev.to&link=https://dev.to/gurpreetsingh)](https://dev.to/gurpreetsingh)
+[![Instagram Badge](https://img.shields.io/badge/-lyfzcool89-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/lyfzcool89/)](https://instagram.com/lyfzcool89)
+[![Outlook Badge](https://img.shields.io/badge/-gurpreet.singh-c14438?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:gurpreet.singh_89@outlook.com)](mailto:gurpreet.singh_89@outlook.com)
 ---
 
 ## Portfolio
