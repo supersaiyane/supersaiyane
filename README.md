@@ -1,5 +1,5 @@
 # Gurpreet Singh: Human being from 1990's 
-<img align="left" width="150" height="150" alt="Gurpreet Singh" src="Resources/gifs/maxresdefault.jpg"/>
+<img align="left" width="150" height="155" alt="Gurpreet Singh" src="Resources/gifs/maxresdefault.jpg"/>
 
 *Technical Solution Architect || Mentor || Aspired to be TEDx Speaker || Food, Travel and System Design is Love*
 
