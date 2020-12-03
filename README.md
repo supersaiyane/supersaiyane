@@ -21,19 +21,6 @@
 - Ambitious, highly motivated and able to face challenging work and deliver quality output while meeting deadlines.
 - Results-oriented, Technology professional with proven leadership ability; capable of keeping a team focused on day-to-day tasks and long-term deadlines.
 
----
-
-## 🧐 Facts
-<img align="right" width="350" height="300" alt="Gurpreet Singh" src="Resources/gifs/hula_loop_dribbble.gif"/>
-
-- 🔭 I’m currently working on React, DevOps & Cloud 
-- 🌱 I’m currently learning React,Nodejs,GO 
-- 👯 I’m not looking to collaborate on anything rightnow BUT if you have something moderately difficult and interesting let me know. I can prioritize things. 
-- 💬 Ask me about Anything in this world 
-- 📫 How to reach me: [Whatsapp](https://wa.me/918589898914)  || [Email](mailto:gurpreet.singh_89@outlook.com)
-- 😄 Pronouns: Demonstrative 
-- ⚡ Fun fact: Google rents out goats!! 
-
 <h2>🚀 Few Tools/ Technologies/ Framework i use/used</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="45" />
@@ -80,6 +67,20 @@
 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="NPM" width="45" height="45" />
 <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="PHPmyAdmin" width="45" height="45" />
 </p>
+
+---
+
+## 🧐 Facts
+<img align="right" width="350" height="300" alt="Gurpreet Singh" src="Resources/gifs/hula_loop_dribbble.gif"/>
+
+- 🔭 I’m currently working on React, DevOps & Cloud 
+- 🌱 I’m currently learning React,Nodejs,GO 
+- 👯 I’m not looking to collaborate on anything rightnow BUT if you have something moderately difficult and interesting let me know. I can prioritize things. 
+- 💬 Ask me about Anything in this world 
+- 📫 How to reach me: [Whatsapp](https://wa.me/918589898914)  || [Email](mailto:gurpreet.singh_89@outlook.com)
+- 😄 Pronouns: Demonstrative 
+- ⚡ Fun fact: Google rents out goats!! 
+
 
 ## 💻 Statistics
 
