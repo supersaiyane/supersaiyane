@@ -78,14 +78,14 @@
 ## 💻 Statistics
 
 
-<a href="https://github.com/masterroshi89/masterroshi89">
-  <img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=masterroshi89&show_icons=true&line_height=27&count_private=true" alt="masterroshi89's GitHub Stats" />
+<a href="https://github.com/supersaiyane/supersaiyane">
+  <img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=supersaiyane&show_icons=true&line_height=27&count_private=true" alt="supersaiyane's GitHub Stats" />
 </a>
 
 <p>&nbsp;</p>
 
-<a href="https://github.com/technicalmonk/masterroshi89">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=masterroshi89&column=7" />
+<a href="https://github.com/supersaiyane/supersaiyane">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=supersaiyane&column=7" />
 </a>
 
 ---
