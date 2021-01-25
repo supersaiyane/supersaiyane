@@ -57,19 +57,6 @@
 </p>
 
 ---
-
-## 🧐 Facts
-<img align="right" width="350" height="300" alt="Gurpreet Singh" src="Resources/gifs/hula_loop_dribbble.gif"/>
-
-- 🔭 I’m currently working on React, DevOps & Cloud 
-- 🌱 I’m currently learning React,Nodejs,GO 
-- 👯 I’m not looking to collaborate on anything rightnow BUT if you have something moderately difficult and interesting let me know. I can prioritize things. 
-- 💬 Ask me about Anything in this world 
-- 📫 How to reach me: [Whatsapp](https://wa.me/918589898914)  || [Email](mailto:gurpreet.singh_89@outlook.com)
-- 😄 Pronouns: Demonstrative 
-- ⚡ Fun fact: Google rents out goats!! 
-
-
 ## 💻 Statistics
 
 
