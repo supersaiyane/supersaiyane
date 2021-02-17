@@ -22,23 +22,23 @@
 
 ## Portfolio
 
-```
+```javascript
 const gurpreet = {
     pronouns: "He" | "Him",
-    introduction: ["Results-oriented", "Technology professional with proven leadership ability"]
-    like: ["Hikies", "Architecting and Designing Products/ Systems", "Reading"]
+    introduction: ["Results-oriented", "Technology professional with proven leadership ability"],
+    like: ["Hikies", "Architecting and Designing Products/ Systems", "Reading"],
     code: ["C#", "Go", "Python", "Javascript"],
     askMeAbout: ["DevOps", "tech", "app dev", "photography"],
     technologies: {
         backEnd: {
             js: ["node", "express"],
             python[],
-			C#
+	    C#
         },
         devOps: ["AWS", "GCP", "Azure", "Docker🐳", "Kubernetes", "Istio", "Ansible", "Spinnaker", "Jenkins", "Nginx"],
         databases: ["MySql"],
-        monitoring: ["InfluxDb", "Prometheus", "Grafana", "jaeger", "ELK"]
-        misc: ["React","Code reviews", "Brain-stroming Solutions", "Mentoring" "Process reviews", "Spec review", "Managing projects"]
+        monitoring: ["InfluxDb", "Prometheus", "Grafana", "jaeger", "ELK"],
+        misc: ["Code reviews", "Brain-stroming Solutions", "Mentoring", "Process reviews", "Spec review", "Managing projects"]
     },
     architecture: ["Serverless Architecture", "MicroServices", "Monolith", "Single page applications"],
     currentFocus: "Comptetive Programming", "Working to take DevOps to next level"
