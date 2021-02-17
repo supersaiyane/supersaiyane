@@ -35,8 +35,8 @@ const gurpreet = {
     technologies: {
         backEnd: {
             js: ["node", "express"],
-            python[],
-	    C#
+            python: [],
+	    C#: []
         },
         devOps: ["AWS", "GCP", "Azure", "Docker🐳", "Kubernetes", "Istio", "Ansible", "Spinnaker", "Jenkins", "Nginx"],
         databases: ["MySql"],
