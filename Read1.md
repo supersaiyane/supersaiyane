@@ -41,7 +41,7 @@ const gurpreet = {
         misc: ["Code reviews", "Brain-stroming Solutions", "Mentoring", "Process reviews", "Spec review", "Managing projects"]
     },
     architecture: ["Serverless Architecture", "MicroServices", "Monolith", "Single page applications"],
-    currentFocus: "Comptetive Programming", "Working to take DevOps to next level"
+    currentFocus: "Comptetive Programming", "Working to take DevOps to next level",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
@@ -54,10 +54,3 @@ const gurpreet = {
 <a href="https://github.com/supersaiyane/supersaiyane">
   <img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=supersaiyane&show_icons=true&line_height=27&count_private=true" alt="supersaiyane's GitHub Stats" />
 </a>
-
-<p>&nbsp;</p>
-
----
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-
