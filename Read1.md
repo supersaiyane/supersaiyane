@@ -19,11 +19,9 @@
   <a href= "https://www.linkedin.com/in/gurpreetsingh89/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>	
-	![](https://visitor-badge.glitch.me/badge?page_id=github.com/supersaiyane) [![GitHub followers](https://img.shields.io/github/followers/supersaiyane?label=Follow&style=social)](https://github.com/supersaiyane/?tab=follow) ![Profile views](https://gpvc.arturio.dev/supersaiyane) 
 </p>  
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/supersaiyane) [![GitHub followers](https://img.shields.io/github/followers/supersaiyane?label=Follow&style=social)](https://github.com/supersaiyane/?tab=follow) ![Profile views](https://gpvc.arturio.dev/supersaiyane) 
 
-	
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/supersaiyane) [![GitHub followers](https://img.shields.io/github/followers/supersaiyane?label=Follow&style=social)](https://github.com/supersaiyane/?tab=follow) ![Profile views](https://gpvc.arturio.dev/supersaiyane) 
 
 ---
 
