@@ -10,12 +10,15 @@
   <a href= "https://supersaiyane.github.io/gurpreetsingh/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
   </a>
-  <a href= "https://www.bryanjenks.dev">
+  <a href= "https://dev.to/gurpreetsingh">
     <img src="https://img.icons8.com/windows/32/000000/dev.png"/>
   </a>
-  <a href= "https://www.bryanjenks.dev">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/instagram.png"/>
+  <a href= "mailto:gurpreet.singh_89@outlook.com">
+    <img src="https://img.icons8.com/wired/32/000000/apple-mail.png"/>
   </a>
+  <a href= "https://www.linkedin.com/in/gurpreetsingh89/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+  </a>	
 </p>  
 
 ---
