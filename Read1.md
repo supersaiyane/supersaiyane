@@ -23,11 +23,12 @@
 ## Portfolio
 
 <img align="right" src="Resources/gifs/code.gif" width="500" height="320" />
+
 ```
 const gurpreet = {
     pronouns: "He" | "Him",
-    introduction: "Results-oriented, Technology professional with proven leadership ability; capable of keeping a team focused on day-to-day tasks and long-term deadlines.",
-	like: ["Hikies", "Architecting and Designing Products/ Systems", "Reading"]
+    introduction: ["Results-oriented", "Technology professional with proven leadership ability"]
+    like: ["Hikies", "Architecting and Designing Products/ Systems", "Reading"]
     code: ["C#", "Go", "Python", "Javascript"],
     askMeAbout: ["DevOps", "tech", "app dev", "photography"],
     technologies: {
@@ -57,10 +58,6 @@ const gurpreet = {
 </a>
 
 <p>&nbsp;</p>
-
-<a href="https://github.com/supersaiyane/supersaiyane">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=supersaiyane&column=7" />
-</a>
 
 ---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
