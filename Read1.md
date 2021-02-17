@@ -22,8 +22,6 @@
 
 ## Portfolio
 
-<img align="right" src="Resources/gifs/code.gif" width="500" height="320" />
-
 ```
 const gurpreet = {
     pronouns: "He" | "Him",
