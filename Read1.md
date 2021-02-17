@@ -1,7 +1,5 @@
 <img src="https://github.com/supersaiyane/supersaiyane/blob/main/Resources/name-removebg-preview.png" width="995" height="200"/>
 
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/supersaiyane) [![GitHub followers](https://img.shields.io/github/followers/supersaiyane?label=Follow&style=social)](https://github.com/supersaiyane/?tab=follow) ![Profile views](https://gpvc.arturio.dev/supersaiyane) ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-gurpreetsingh89-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gurpreetsingh89/)](https://www.linkedin.com/in/gurpreetsingh89/) [![dev.to Badge](https://img.shields.io/badge/-@gurpreetsingh-000000?style=flat&labelColor=000000&logo=dev.to&link=https://dev.to/gurpreetsingh)](https://dev.to/gurpreetsingh) [![Instagram Badge](https://img.shields.io/badge/-lyfzcool89-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/lyfzcool89/)](https://instagram.com/lyfzcool89) [![Outlook Badge](https://img.shields.io/badge/-gurpreet.singh-c14438?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:gurpreet.singh_89@outlook.com)](mailto:gurpreet.singh_89@outlook.com)
-
 <p align="center">
   <a href= "https://github.com/tallguyjenks/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
