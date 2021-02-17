@@ -23,29 +23,29 @@
 ## Portfolio
 
 <img align="right" src="Resources/gifs/code.gif" width="500" height="320" />
-
+```
 const gurpreet = {
     pronouns: "He" | "Him",
-	  introduction: "Results-oriented, Technology professional with proven leadership ability; capable of keeping a team focused on day-to-day tasks and long-term deadlines.",
-	  like: ["Hikies", "Architecting and Designing Products/ Systems", "Reading"]
+    introduction: "Results-oriented, Technology professional with proven leadership ability; capable of keeping a team focused on day-to-day tasks and long-term deadlines.",
+	like: ["Hikies", "Architecting and Designing Products/ Systems", "Reading"]
     code: ["C#", "Go", "Python", "Javascript"],
     askMeAbout: ["DevOps", "tech", "app dev", "photography"],
     technologies: {
         backEnd: {
             js: ["node", "express"],
             python[],
-			      C#
+			C#
         },
         devOps: ["AWS", "GCP", "Azure", "Docker🐳", "Kubernetes", "Istio", "Ansible", "Spinnaker", "Jenkins", "Nginx"],
         databases: ["MySql"],
-		    monitoring: ["InfluxDb", "Prometheus", "Grafana", "jaeger", "ELK"]
+        monitoring: ["InfluxDb", "Prometheus", "Grafana", "jaeger", "ELK"]
         misc: ["React","Code reviews", "Brain-stroming Solutions", "Mentoring" "Process reviews", "Spec review", "Managing projects"]
     },
     architecture: ["Serverless Architecture", "MicroServices", "Monolith", "Single page applications"],
     currentFocus: "Comptetive Programming", "Working to take DevOps to next level"
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
-
+```
 
 
 ---
