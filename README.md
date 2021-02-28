@@ -36,8 +36,8 @@ const gurpreet = {
     code: ["C#", "Go", "Python", "Javascript"],
     askMeAbout: ["DevOps", "tech", "app-dev", "photography", "system reliability", "system-design"],
     orgsWorkedFor: {
-		fullTime: [IBM, TCS, QCS, Speridian, MakeMyTrip, Vertisystem],
-		clients: [Myntra, Flipkart, NDC, Infoblox, SallyBeauty, ReportWorkBench]
+		fullTime: ["IBM", "TCS", "QCS", "Speridian", "MakeMyTrip", "Vertisystem"],
+		clients: ["Myntra", "Flipkart", "NDC", "Infoblox", "SallyBeauty", "ReportWorkBench"]
 	},
     technologies: {
         backEnd: {
@@ -54,7 +54,7 @@ const gurpreet = {
     currentFocus: "Comptetive Programming", "Working towards leveraging DevOps to next level",
     funFact: "There are two ways to write error-free programs; only the third one works",
     howToContactMe:{
-	e-Mail: [gurpreet.singh_89@outlook.com]
+	e-Mail: ["gurpreet.singh_89@outlook.com"]
 	},
     followMeOn{
 	linkedIn: ["https://www.linkedin.com/in/gurpreetsingh89/"],
