@@ -31,9 +31,14 @@
 const gurpreet = {
     pronouns: "He" | "Him",
     introduction: ["Results-oriented", "Technology professional with proven leadership ability"],
+    snapshot: ["Gurpreet Singh is an passionate and detail-oriented Technical solution Architect/Site Reliability Engineeer with more than 8 years of experience, He is well 			versed with DevOps, Presales, CRM and codes in C#,Python and Go. He thrives in a fast-paced and creative environment. He is recognised for exhibiting a positive 		 attitude and high energy.A good team player and believes in taking ownership of his work. His hobbies include Reading and Coding, always focuses on delivering 		quality work and practicing good coding standards."],
     like: ["Hikies", "Architecting and Designing Products/ Systems", "Reading"],
     code: ["C#", "Go", "Python", "Javascript"],
-    askMeAbout: ["DevOps", "tech", "app dev", "photography"],
+    askMeAbout: ["DevOps", "tech", "app-dev", "photography", "system reliability", "system-design"],
+    orgsWorkedFor: {
+		fullTime: [IBM, TCS, QCS, Speridian, MakeMyTrip, Vertisystem],
+		clients: [Myntra, Flipkart, NDC, Infoblox, SallyBeauty, ReportWorkBench]
+	},
     technologies: {
         backEnd: {
             js: ["node", "express"],
@@ -47,7 +52,16 @@ const gurpreet = {
     },
     architecture: ["Serverless Architecture", "MicroServices", "Monolith", "Single page applications"],
     currentFocus: "Comptetive Programming", "Working towards leveraging DevOps to next level",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "There are two ways to write error-free programs; only the third one works",
+    howToContactMe:{
+	e-Mail: [gurpreet.singh_89@outlook.com]
+	},
+    followMeOn{
+	linkedIn: ["https://www.linkedin.com/in/gurpreetsingh89/"],
+	gitHub: ["https://github.com/supersaiyane"],
+	dev.To: ["https://dev.to/gurpreetsingh"],
+	instagram: ["https://www.instagram.com/lyfzcool89/"]
+	}	
 };
 ```
 
