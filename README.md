@@ -51,7 +51,7 @@ const gurpreet = {
         misc: ["Code reviews", "Brain-stroming Solutions", "Mentoring", "Process reviews", "Spec review", "Managing projects"]
     },
     architecture: ["Serverless Architecture", "MicroServices", "Monolith", "Single page applications"],
-    currentFocus: "Comptetive Programming", "Working towards leveraging DevOps to next level",
+    currentFocus: ["Comptetive Programming", "Working towards leveraging DevOps to next level"],
     funFact: "There are two ways to write error-free programs; only the third one works",
     howToContactMe:{
 	e-Mail: ["gurpreet.singh_89@outlook.com"]
