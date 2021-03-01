@@ -31,7 +31,7 @@
 const gurpreet = {
     pronouns: "He" | "Him",
     introduction: ["Results-oriented", "Technology professional with proven leadership ability"],
-    like: ["Hikies", "Architecting and Designing Products/ Systems", "Reading"],
+    like: ["Hiking", "Architecting and Designing Products/ Systems", "Reading", "Cooking"],
     code: ["C#", "Go", "Python", "Javascript"],
     askMeAbout: ["DevOps", "tech", "app-dev", "photography", "system reliability", "system-design"],
     orgsWorkedFor: {
