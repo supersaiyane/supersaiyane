@@ -55,7 +55,7 @@ const gurpreet = {
     howToContactMe:{
 	eMail: ["gurpreet.singh_89@outlook.com"]
 	},
-    followMeOn{
+    followMeOn: {
 	linkedIn: ["https://www.linkedin.com/in/gurpreetsingh89/"],
 	gitHub: ["https://github.com/supersaiyane"],
 	dev.To: ["https://dev.to/gurpreetsingh"],
