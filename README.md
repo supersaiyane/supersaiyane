@@ -53,14 +53,14 @@ const gurpreet = {
     currentFocus: ["Comptetive Programming", "Working towards leveraging DevOps to next level"],
     funFact: "There are two ways to write error-free programs; only the third one works",
     howToContactMe:{
-	e-Mail: ["gurpreet.singh_89@outlook.com"]
+	eMail: ["gurpreet.singh_89@outlook.com"]
 	},
     followMeOn{
 	linkedIn: ["https://www.linkedin.com/in/gurpreetsingh89/"],
 	gitHub: ["https://github.com/supersaiyane"],
 	dev.To: ["https://dev.to/gurpreetsingh"],
 	instagram: ["https://www.instagram.com/lyfzcool89/"]
-	}	
+     }	
 };
 ```
 
