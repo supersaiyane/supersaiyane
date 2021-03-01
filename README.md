@@ -58,7 +58,7 @@ const gurpreet = {
     followMeOn: {
 	linkedIn: ["https://www.linkedin.com/in/gurpreetsingh89/"],
 	gitHub: ["https://github.com/supersaiyane"],
-	dev.To: ["https://dev.to/gurpreetsingh"],
+	devTo: ["https://dev.to/gurpreetsingh"],
 	instagram: ["https://www.instagram.com/lyfzcool89/"]
      }	
 };
