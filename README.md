@@ -33,7 +33,7 @@ const gurpreet = {
     introduction: ["Results-oriented", "Technology professional with proven leadership ability"],
     like: ["Hiking", "Architecting and Designing Products/ Systems", "Reading", "Cooking"],
     code: ["C#", "Go", "Python", "Javascript"],
-    askMeAbout: ["DevOps", "tech", "app-dev", "photography", "system reliability", "system-design"],
+    askMeAbout: ["DevSecOps", "tech", "app-dev", "photography", "system reliability", "system-design"],
     orgsWorkedFor: {
 		fullTime: ["IBM", "TCS", "QCS", "Speridian", "MakeMyTrip", "Vertisystem"],
 		clients: ["Myntra", "Flipkart", "NDC", "Infoblox", "SallyBeauty", "ReportWorkBench"]
