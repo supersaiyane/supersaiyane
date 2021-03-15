@@ -49,6 +49,10 @@ const gurpreet = {
         monitoring: ["InfluxDb", "Prometheus", "Grafana", "jaeger", "ELK"],
         misc: ["Code reviews", "Brain-stroming Solutions", "Mentoring", "Process reviews", "Spec review", "Managing projects"]
     },
+    codingPractise:{
+    	loves: ["YAGNI", "DRY", "Time-efficiency", "Space-efficiency"],
+	hates: ["WETT"]
+    }
     architecture: ["Serverless Architecture", "MicroServices", "Monolith", "Single page applications"],
     currentFocus: ["Comptetive Programming", "Working towards leveraging DevOps to next level"],
     funFact: "There are two ways to write error-free programs; only the third one works",
