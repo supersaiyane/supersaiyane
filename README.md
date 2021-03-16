@@ -42,7 +42,7 @@ const gurpreet = {
         backEnd: {
             js: ["node", "express"],
             python: [],
-	    C#: []
+	    csharp: []
         },
         devOps: ["AWS", "GCP", "Azure", "Docker🐳", "Kubernetes", "Istio", "Ansible", "Spinnaker", "Jenkins", "Nginx"],
         databases: ["MySql"],
