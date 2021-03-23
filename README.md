@@ -1,4 +1,4 @@
-<img src="https://github.com/supersaiyane/supersaiyane/blob/main/Resources/name-removebg-preview.png" width="995" height="200"/>
+<!--<img src="https://github.com/supersaiyane/supersaiyane/blob/main/Resources/name-removebg-preview.png" width="995" height="200"/>-->
 
 <p align="center">
   <a href= "https://github.com/supersaiyane/">
