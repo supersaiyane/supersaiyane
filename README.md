@@ -23,11 +23,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/supersaiyane) [![GitHub followers](https://img.shields.io/github/followers/supersaiyane?label=Follow&style=social)](https://github.com/supersaiyane/?tab=follow) ![Profile views](https://gpvc.arturio.dev/supersaiyane) 
 
-<p>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=supersaiyane&theme=dark&hide_border=true" alt="supersaiyane - Github Readme Streak Stats" />
-</p>
-
-
 ---
 
 ## Portfolio
