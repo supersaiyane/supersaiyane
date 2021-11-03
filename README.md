@@ -27,46 +27,15 @@
 
 ## Portfolio
 
-```javascript
-const gurpreet = {
-    pronouns: "He" | "Him",
-    introduction: ["Results-oriented", "Technology professional with proven leadership ability"],
-    like: ["Hiking", "Architecting and Designing Products/ Systems", "Reading", "Cooking"],
-    code: ["C#", "Go", "Python", "Javascript"],
-    askMeAbout: ["DevSecOps", "tech", "app-dev", "photography", "system reliability", "system-design"],
-    orgsWorkedFor: {
-		fullTime: ["IBM", "TCS", "QCS", "Speridian", "MakeMyTrip", "Vertisystem"],
-		clients: ["Myntra", "Flipkart", "NDC", "Infoblox", "SallyBeauty", "ReportWorkBench"]
-	},
-    technologies: {
-        backEnd: {
-            js: ["node", "express"],
-            python: [],
-	    csharp: []
-        },
-        devOps: ["AWS", "GCP", "Azure", "Docker🐳", "Kubernetes", "Istio", "Ansible", "Spinnaker", "Jenkins", "Nginx"],
-        databases: ["MySql"],
-        monitoring: ["InfluxDb", "Prometheus", "Grafana", "jaeger", "ELK"],
-        misc: ["Code reviews", "Brain-stroming Solutions", "Mentoring", "Process reviews", "Spec review", "Managing projects"]
-    },
-    codingPractise:{
-    	loves: ["YAGNI", "DRY", "Time-efficiency", "Space-efficiency"],
-	hates: ["WETT"]
-    },
-    architecture: ["Serverless Architecture", "MicroServices", "Monolith", "Single page applications"],
-    currentFocus: ["Comptetive Programming", "Working towards leveraging DevOps to next level"],
-    funFact: "There are two ways to write error-free programs; only the third one works",
-    howToContactMe:{
-	eMail: ["gurpreet.singh_89@outlook.com"]
-	},
-    followMeOn: {
-	linkedIn: ["https://www.linkedin.com/in/gurpreetsingh89/"],
-	gitHub: ["https://github.com/supersaiyane"],
-	devTo: ["https://dev.to/gurpreetsingh"],
-	instagram: ["https://www.instagram.com/lyfzcool89/"]
-     }	
-};
-```
+Software Engineer by Day | Game Developer by Night, I like exploring new things and solving problems.
+
+My interests include :
+
+    🏆 Contributing to open source projects.
+    🎮 Building and playing video Games.
+    🤖 Machine Learning and Data Science.
+    🌟 Making cool stuff that makes lives easier (and Fun!!).
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=supersaiyane&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
 
