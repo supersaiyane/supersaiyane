@@ -7,7 +7,7 @@
   <a href= "https://instagram.com/lyfzcool89/">
     <img src="https://img.icons8.com/wired/32/000000/instagram-new.png"/>
   </a>
-  <a href= "https://supersaiyane.github.io/gurpreetsingh/">
+  <a href= "https://supersaiyane.in/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
   </a>
   <a href= "https://dev.to/gurpreetsingh">
