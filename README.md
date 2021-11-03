@@ -10,10 +10,10 @@
   <a href= "https://supersaiyane.in/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
   </a>
-  <a href= "https://dev.to/gurpreetsingh">
+  <a href= "https://dev.to/gurpreetsingh/">
     <img src="https://img.icons8.com/windows/32/000000/dev.png"/>
   </a>
-  <a href= "www.linkedin.com/in/gurpreetsinghpal/">
+  <a href= "https://www.linkedin.com/in/gurpreetsinghpal/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
   <a href= "mailto:gurpreet.singh_89@outlook.com">
