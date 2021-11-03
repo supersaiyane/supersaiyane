@@ -23,18 +23,15 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/supersaiyane) [![GitHub followers](https://img.shields.io/github/followers/supersaiyane?label=Follow&style=social)](https://github.com/supersaiyane/?tab=follow) ![Profile views](https://gpvc.arturio.dev/supersaiyane) 
 
----
-
 ## Portfolio
-
-Software Engineer by Day | Game Developer by Night, I like exploring new things and solving problems.
 
 My interests include :
 
     🏆 Contributing to open source projects.
-    🎮 Building and playing video Games.
-    🤖 Machine Learning and Data Science.
-    🌟 Making cool stuff that makes lives easier (and Fun!!).
+    🎮 Deep diving into problems.
+    🤖 Cyber-security and DevOps.
+    🌟 Love Cooking, Technology and Vaccations.
+    :speech_balloon: would love to collaborate on anything
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=supersaiyane&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
