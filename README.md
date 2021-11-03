@@ -31,7 +31,7 @@ My interests include :
     🎮 Deep diving into problems.
     🤖 Cyber-security and DevOps.
     🌟 Love Cooking, Technology and Vaccations.
-    :speech_balloon: would love to collaborate on anything
+    💬 would love to collaborate on anything
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=supersaiyane&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
