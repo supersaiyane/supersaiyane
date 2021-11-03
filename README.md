@@ -23,9 +23,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/supersaiyane) [![GitHub followers](https://img.shields.io/github/followers/supersaiyane?label=Follow&style=social)](https://github.com/supersaiyane/?tab=follow) ![Profile views](https://gpvc.arturio.dev/supersaiyane) 
 
-## Portfolio
-
-My interests include :
 
     🏆 Contributing to open source projects.
     🎮 Deep diving into problems.
