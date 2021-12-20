@@ -6,8 +6,8 @@
 - 💻 Architect at Vertisystem.
 - 🖥️ Love designing & developing Systems.
 - 🏆 Contributing to open source projects.
-- 📧 Love to discuss Tech & Basketball.  
-- 💬 would love to collaborate on anything
+- 📧 Love to discuss Tech.  
+- 💬 would love to collaborate on anything.
 - 🌟 Love Cooking, Technology and Vaccations. 
 
 # Download Resume
