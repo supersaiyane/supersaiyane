@@ -3,12 +3,12 @@
 # Hi there! I'm Gurpreet👋 
 
 
-- 💻 Architect at Vertisystem.
-- 🖥️ Love designing & developing Systems.
+- 💻 Senior Staff SRE at Vertisystem.
+- 🖥️ Love designing Large scale distributed systems & developing Products
 - 🏆 Contributing to open source projects.
 - 📧 Love to discuss Tech.  
 - 💬 would love to collaborate on anything.
-- 🌟 Love Cooking, Technology and Vaccations. 
+- 🌟 Love Cooking, Discussing Technology and Vaccations. 
 
 # Download Resume
 <a href="https://github.com/supersaiyane/supersaiyane/raw/main/Resources/Resume/Gurpreet%20Singh.pdf">Download</a>
