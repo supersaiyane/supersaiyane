@@ -10,8 +10,8 @@
 - 💬 would love to collaborate on anything.
 - 🌟 Love Cooking, Discussing Technology and Vaccations. 
 
-# Download Resume
-<a href="https://github.com/supersaiyane/Resume/raw/main/Gurpreet%20Singh.pdf">Download</a>
+<!--# Download Resume
+<a href="https://github.com/supersaiyane/Resume/raw/main/Gurpreet%20Singh.pdf">Download</a> -->
 
 
 # I'm there on
