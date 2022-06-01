@@ -2,6 +2,7 @@
 
 # Hi there! I'm Gurpreet👋 
 
+I ❤️ writing idiomatic, maintainable code. I architect high performing, fault-tolerant apps on AWS cloud. ☁️
 
 - 💻 Senior Staff SRE at Vertisystem.
 - 🖥️ Love designing Large scale distributed systems & developing Products
