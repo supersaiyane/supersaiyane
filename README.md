@@ -44,7 +44,6 @@ I ❤️ writing idiomatic, maintainable code. I architect high performing, faul
 <img src="Resources/svgicons/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="Resources/svgicons/dotnet-icon.svg" alt=".NET" width="45" height="45" />
 <img src="Resources/svgicons/python-icon.svg" alt="python" width="45" height="45" />
-<img src="Resources/svgicons/golang-icon.svg" alt="golang" width="45" height="45" />
 <img src="Resources/svgicons/nginx-icon.svg" alt="nginx" width="45" height="45" />
 <img src="Resources/svgicons/microsoft_azure-icon.svg" alt="microsoft_azure" width="45" height="45" />
 <img src="Resources/svgicons/amazon_aws-icon.svg" alt="Aws" width="50" height="45" />
@@ -63,18 +62,13 @@ I ❤️ writing idiomatic, maintainable code. I architect high performing, faul
 <img src="Resources/svgicons/prometheusio-icon.svg" alt="prometheusio" width="45" height="45" />
 <img src="Resources/svgicons/elasticco_logstash-icon.svg" alt="logstash" width="45" height="45" />
 <img src="Resources/svgicons/ansible-icon.svg" alt="Ansible" width="45" height="45" />
-<img src="Resources/svgicons/consulio-icon.svg" alt="Consul" width="45" height="45" />
-<img src="Resources/svgicons/mariadb-icon.svg" alt="MariaDb" width="45" height="45" />
 <img src="Resources/svgicons/jenkins-icon.svg" alt="Jenkins" width="45" height="45" />
 <img src="Resources/svgicons/jaegertracingio-icon.svg" alt="Jaeger" width="45" height="45" />
 <img src="Resources/svgicons/mysql-icon.svg" alt="mysql" width="45" height="45" />
 <img src="Resources/svgicons/elastic-icon.svg" alt="Elastic" width="45" height="45" />
-<img src="Resources/svgicons/memcached-icon.svg" alt="Memcached" width="45" height="45" />
 <img src="Resources/svgicons/redis-original-wordmark.svg" alt="redis" width="45" height="45" />
 <img src="Resources/svgicons/npmjs-ar21.svg" alt="NPM" width="45" height="45" />
 <img src="Resources/svgicons/phpmyadmin-icon.svg" alt="PHPmyAdmin" width="45" height="45" />
-<img src="Resources/svgicons/mongodb-icon.svg" alt="mongodb" width="45" height="45" />
-<img src="Resources/svgicons/couchbase-icon.svg" alt="Couchbase" width="45" height="45" />
 </p>
 
 # Streak
