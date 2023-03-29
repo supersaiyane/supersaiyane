@@ -76,6 +76,3 @@ I ❤️ writing idiomatic, maintainable code. I architect high performing, faul
 
 # Stats
 ![Gurpreet's github stats](https://github-readme-stats.vercel.app/api?username=supersaiyane&show_icons=true&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true)
-
-# Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supersaiyane&layout=compact&theme=tokyonight)](https://github.com/supersaiyane/github-readme-stats)
