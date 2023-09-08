@@ -21,9 +21,9 @@ I ❤️ writing idiomatic, maintainable code. I architect high performing, faul
   <a href= "https://github.com/supersaiyane/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
   </a>
-  <!--<a href= "https://instagram.com/lyfzcool89/">
+  <!-- <a href= "https://instagram.com/lyfzcool89/">
     <img src="https://img.icons8.com/wired/32/000000/instagram-new.png"/>
-  </a> -->
+  </a> 
   <a href= "https://supersaiyane.in/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
   </a> -->
