@@ -40,9 +40,11 @@ I ❤️ writing idiomatic, maintainable code. I architect high performing, faul
 
 # Languages and Tools  
 <p align="left">
-<img src="Resources/svgicons/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+<!-- <img src="Resources/svgicons/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
 <img src="Resources/svgicons//w3_html5-icon.svg" alt="Html5" width="45" height="45" />
-<img src="Resources/svgicons/javascript-original.svg" alt="javascript" width="45" height="45" />
+  <img src="Resources/svgicons/microsoft_powerbi-icon.svg" alt="Power-Bi" width="45" height="45" />
+ -->
+  <img src="Resources/svgicons/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="Resources/svgicons/dotnet-icon.svg" alt=".NET" width="45" height="45" />
 <img src="Resources/svgicons/python-icon.svg" alt="python" width="45" height="45" />
 <img src="Resources/svgicons/nginx-icon.svg" alt="nginx" width="45" height="45" />
@@ -50,7 +52,7 @@ I ❤️ writing idiomatic, maintainable code. I architect high performing, faul
 <img src="Resources/svgicons/amazon_aws-icon.svg" alt="Aws" width="50" height="45" />
 <img src="Resources/svgicons/google_cloud-icon.svg" alt="gcp" width="45" height="45" />
 <img src="Resources/svgicons/rabbitmq-icon.svg" alt="rabbitmq" width="45" height="45" />
-<img src="Resources/svgicons/microsoft_powerbi-icon.svg" alt="Power-Bi" width="45" height="45" />
+
 <img src="Resources/svgicons/visualstudio_code-icon.svg" alt="VS-Code" width="45" height="45" />
 <img src="Resources/svgicons/bitbucket-icon.svg" alt="BitBucket" width="45" height="45" />
 <img src="Resources/svgicons/gitlab-icon.svg" alt="Gitlab" width="45" height="45" />
