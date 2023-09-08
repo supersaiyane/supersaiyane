@@ -28,7 +28,7 @@ I ❤️ writing idiomatic, maintainable code. I architect high performing, faul
     <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
   </a>
   <a href= "https://dev.to/gurpreetsingh/">
-    <img src="https://img.icons8.com/windows/32/000000/dev.png"/>
+    <img src="https://icons8.com/icon/32856/medium-old"/>
   </a>
   <a href= "https://www.linkedin.com/in/gurpreetsinghpal/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
