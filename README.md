@@ -1,5 +1,6 @@
 
-[![GitHub followers](https://img.shields.io/github/followers/supersaiyane?label=Follow&style=social)](https://github.com/supersaiyane/?tab=follow) 
+[![GitHub followers](https://img.shields.io/github/followers/supersaiyane?label=Follow&style=social)](https://github.com/supersaiyane/?tab=follow)  ![Visitors](https://vbr.wocr.tk/badge?page_id=supersaiyane)
+
 
 # Hi there! I'm Gurpreet👋 
 
