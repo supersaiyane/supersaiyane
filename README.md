@@ -31,7 +31,7 @@ I ❤️ writing idiomatic, maintainable code. I architect high performing, faul
   <a href= "https://medium.com/@gurpreet.singh_89">
     <img src="https://img.icons8.com/ios/32/medium--v1.png"/>
   </a>
-  <a href= "https://www.linkedin.com/in/gurpreetsinghpal/">
+  <a href= "https://www.linkedin.com/in/gurpreettsengh/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
   <a href= "mailto:gurpreet.singh_89@outlook.com">
