@@ -6,7 +6,7 @@
 
 I ❤️ writing idiomatic, maintainable code. I architect high performing, fault-tolerant apps on AWS cloud. ☁️
 
-- 💻 Senior Staff SRE at Vertisystem.
+- 💻 Senior Staff SRE at NatWest Group.
 - 🖥️ Love designing Large scale distributed systems & developing Products
 - 🏆 Contributing to open source projects.
 - 📧 Love to discuss Tech.  
