@@ -1,5 +1,6 @@
 
-[![GitHub followers](https://img.shields.io/github/followers/supersaiyane?label=Follow&style=social)](https://github.com/supersaiyane/?tab=follow)  ![Visitors](https://vbr.wocr.tk/badge?page_id=supersaiyane)
+![profile_views](https://komarev.com/ghpvc/?username=supersaiyane&color=da3fab)
+![followers](https://img.shields.io/github/followers/supersaiyane?label=Followers&style=flat&color=da3fab)
 
 
 # Hi there! I'm Gurpreet👋 
@@ -34,7 +35,7 @@ I ❤️ writing idiomatic, maintainable code. I architect high performing, faul
   <a href= "https://www.linkedin.com/in/gurpreettsengh/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
-  <a href= "mailto:gurpreet.singh_89@outlook.com">
+  <a href= "mailto:senghgurpreett@gmail.com">
     <img src="https://img.icons8.com/wired/32/000000/apple-mail.png"/>
   </a>	
 </p>
