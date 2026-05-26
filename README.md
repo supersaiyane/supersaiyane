@@ -2,8 +2,8 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║   Welcome to my SRE Lab — where uptime is religion,         ║
-║   observability is gospel, and chaos is just a feature. 🔬  ║
+║   Welcome to my SRE Lab — where uptime is religion,          ║
+║   observability is gospel, and chaos is just a feature. 🔬   ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
