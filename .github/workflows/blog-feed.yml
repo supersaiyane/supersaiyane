@@ -1,0 +1,21 @@
+name: 📝 Update Medium Blog Posts
+
+on:
+  schedule:
+    - cron: "0 6 * * *"    # runs every day at 6 AM UTC
+  workflow_dispatch:         # lets you trigger manually too
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch latest Medium posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://medium.com/feed/@gurpreet.singh_89"
+          max_post_count: 5
+          readme_path: README.md
+          template: "- [$title]($url) — *$date*"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
