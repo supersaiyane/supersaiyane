@@ -169,10 +169,7 @@ class Gurpreet:
 
 > 🔄 *Auto-updated via GitHub Actions — fresh posts every 24 hours*
 
-<!-- BLOG-POST-LIST:START -->
-<!-- This section is auto-populated by the blog-post-workflow GitHub Action -->
-<!-- Install: https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Why Your Observability Platform Is Lying to You — And What to Do About It](https://medium.com/@gurpreet.singh_89/why-your-observability-platform-is-lying-to-you-and-what-to-do-about-it-f090352d4a10?source=rss-dd4d151fb2cd------2) — *Fri Apr 03 2026 4:09 PM*- [Your Roadmap to Becoming a DevOps, SRE, or Platform Engineer](https://medium.com/@gurpreet.singh_89/your-roadmap-to-becoming-a-devops-sre-or-platform-engineer-cd5c0b4c5ed3?source=rss-dd4d151fb2cd------2) — *Fri Feb 06 2026 9:10 AM*- [The Future of Site Reliability Engineering: Beyond Uptime](https://medium.com/@gurpreet.singh_89/the-future-of-site-reliability-engineering-beyond-uptime-c609a8a17a04?source=rss-dd4d151fb2cd------2) — *Tue Jan 06 2026 3:57 AM*- [The Enigmatic Beauty and Significance of Logarithmic Spirals.](https://medium.com/@gurpreet.singh_89/the-enigmatic-beauty-and-significance-of-logarithmic-spirals-14788851a200?source=rss-dd4d151fb2cd------2) — *Sat Jan 20 2024 10:34 PM*- [Quantum Mechanics Unveiled: A Journey into the Heart of Reality.](https://medium.com/@gurpreet.singh_89/quantum-mechanics-unveiled-a-journey-into-the-heart-of-reality-8da0dbf27734?source=rss-dd4d151fb2cd------2) — *Sat Jan 20 2024 10:08 PM*<!-- BLOG-POST-LIST:END -->
 
 🔗 **[→ Read all my articles on Medium](https://medium.com/@gurpreet.singh_89)**
 
